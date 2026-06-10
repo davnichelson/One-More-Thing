@@ -1,6 +1,6 @@
-# One More Thing
+# Nudge
 
-One More Thing is a beginner-friendly React + Vite productivity app. It helps you pick one small extra task, mark it complete, and build a simple daily streak.
+Nudge is a beginner-friendly React + Vite productivity app. It helps you pick one small extra task, mark it complete, and build a simple daily streak.
 
 ## What is included
 

@@ -616,7 +616,7 @@ export default function App() {
           <div className="mt-2 flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
             <div>
               <h1 className="text-3xl font-bold tracking-normal text-slate-950 sm:text-4xl">
-                One More Thing
+                Nudge
               </h1>
               <p className="mt-3 max-w-xl text-base leading-7 text-slate-700">
                 Pick one tiny task, finish it, and give your day a little extra momentum.
@@ -993,7 +993,7 @@ function ProPage({ onCancelProSimulation, onUpgrade, proStatus }) {
         <div className="grid gap-5 md:grid-cols-[1.1fr_0.9fr] md:items-center">
           <div>
             <p className="text-sm font-semibold uppercase tracking-wide text-teal-700">
-              One More Thing Pro
+              Nudge Pro
             </p>
             <h2 className="mt-2 text-3xl font-bold tracking-normal text-slate-950">
               A calm upgrade path for bigger momentum.
